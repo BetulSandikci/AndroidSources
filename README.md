@@ -1,7 +1,7 @@
 # <img src="bg_open_source.png" alt="Kodluyoruz.ORG | Android Open Source" class="logo"/> 
 
 * **Hazırlayan**      : Gökhan ÖZTÜRK, [GokhanOzturk@AndroidEdu.IO](mailto:GokhanOzturk@AndroidEdu.IO)
-* **Katkı Sunanlar**  : --, [--@--.--](mailto:GokhanOzturk@AndroidEdu.IO)
+* **Katkı Sunanlar**  : Ahmet Rıfat Can Gür, [CanGur@AndroidEdu.IO](mailto:CanGur@AndroidEdu.IO)
 
 * Yardıma ihtiyacın mı var?
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kodluyoruz-ORG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
