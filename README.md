@@ -117,6 +117,41 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     
 * **Etkinlikler**
     * [Android & iOS 2018 Etkinlik Takvimi](https://bugfender.com/conferences/)
+    
+## Flutter & Cross-Platform Kaynakları
+
+* **Demirbaş Referanslar**
+    * [Güncellenecek](http://googlecom)
+    
+* **Kütüphaneler**
+    * [Güncellenecek](http://googlecom)
+    
+* **RSS Kayıtları**
+    * [Güncellenecek](http://googlecom)
+    
+* **Videolar**
+    * [Güncellenecek](http://googlecom)
+    
+* **Slack Kanalları**
+    * [Güncellenecek](http://googlecom)
+    
+* **PodCast'ler**
+    * [Güncellenecek](http://googlecom)
+    
+* **Facebook Sayfa ve Grupları**
+    * [Güncellenecek](http://googlecom)
+    
+* **Mutlaka Okunması Gereken Kaynaklar**
+    * [Güncellenecek](http://googlecom)
+    
+* **Bloglar**
+    * [Güncellenecek](http://googlecom)
+    
+* **Kişiler**
+    * [Güncellenecek](http://googlecom)
+    
+* **Etkinlikler**
+    * [Güncellenecek](http://googlecom)
 
 ## Genel Programlama Kaynakları
 
