@@ -62,7 +62,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [KotlinConf 2017](https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5)
     
 * **Slack Kanalları**
-    * [Güncellenecek](http://googlecom)
+    * [KotlinLang](https://kotlinlang.slack.com/)
     
 * **PodCast'ler**
     * [Güncellenecek](http://googlecom)
@@ -77,7 +77,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://googlecom)
     
 * **Kişiler**
-    * [Güncellenecek](http://googlecom)
+    * [Google Developers Experts - Kotlin](https://developers.google.com/experts/all/technology/kotlin)
     
 * **Etkinlikler**
     * [Güncellenecek](http://googlecom)
@@ -91,14 +91,16 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Lib4dev](http://www.lib4dev.com/topics/kotlin?p=1&s=)
     
 * **RSS Kayıtları**
-    * [Android Weekly](http://androidweekly.net/)
+    * [Android Weekly](https://androidweekly.net/)
     
 * **Videolar**
     * [AndroidDay'17](https://www.youtube.com/playlist?list=PLSV3VvYZSJP1vo8PZYti9LHoWFUz5K7_4)
     * [droidcon SF 2017](https://www.youtube.com/playlist?list=PLYioXtkIMlS8wsv0jaA3ArxGtZ0RMLZR2)
     
 * **Slack Kanalları**
-    * [Güncellenecek](http://googlecom)
+    * [GDG-Istanbul](https://gdgistanbul.slack.com/)
+    * [AndroidChat](https://androidchat.slack.com/)
+    * [AndroidChat](https://android-united.slack.com/)
     
 * **PodCast'ler**
     * [Güncellenecek](http://googlecom)
@@ -113,7 +115,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Retrofit, Glide, Picasso, Gson (Network işlemleri)](https://futurestud.io/tutorials)
     
 * **Kişiler**
-    * [Güncellenecek](http://googlecom)
+    * [Google Developers Experts - Android](https://developers.google.com/experts/all/technology/android)
     
 * **Etkinlikler**
     * [Android & iOS 2018 Etkinlik Takvimi](https://bugfender.com/conferences/)
@@ -127,7 +129,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://googlecom)
     
 * **RSS Kayıtları**
-    * [Güncellenecek](http://googlecom)
+    * [Flutter Weekly](https://flutterweekly.net/)
     
 * **Videolar**
     * [Güncellenecek](http://googlecom)
@@ -148,7 +150,8 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://googlecom)
     
 * **Kişiler**
-    * [Güncellenecek](http://googlecom)
+    * [Google Developers Experts - Flutter](https://developers.google.com/experts/all/technology/flutter)
+    * [Google Developers Experts - Dart](https://developers.google.com/experts/all/technology/dart)
     
 * **Etkinlikler**
     * [Güncellenecek](http://googlecom)
@@ -170,7 +173,8 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://googlecom)
     
 * **Slack Kanalları**
-    * [Güncellenecek](http://googlecom)
+    * [İstanbul Coders](https://istanbulcoders.slack.com/)
+    * [SoftwareCrafters](https://softwarecrafters.slack.com/)
     
 * **PodCast'ler**
     * [Güncellenecek](http://googlecom)
@@ -191,12 +195,21 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **Etkinlikler**
     * [Güncellenecek](http://googlecom)
     
+## Design
+   * [Panda Weekly](https://usepanda.com/newsletter.html)
+    
 ## Plugin & Extension
-   * [Güncellenecek](http://googlecom)
+   * [Google Chrome Extension - Panda](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
+   * [Google Chrome Extension - OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+   * [Google Chrome Extension - Json Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+   * [Google Chrome Extension - Stack Notifier - StackOverFlow](https://chrome.google.com/webstore/detail/stacknotifier-stackoverfl/dkicpibgdednbmlclkbcehckpfficabn)
+   * [Google Chrome Extension - Weava-Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
+   * [Google Chrome Extension - StackOverFlow-Code-Beauti](https://chrome.google.com/webstore/detail/stackoverflow-code-beauti/pljeafjjkkbacckkollfejkciddacmeb)
 
 ## Code Pratiği Yapılabilecek Siteler
    * [HackerRank](https://www.hackerrank.com/)
    * [CodinGame](https://www.codingame.com/start)
+   * [CodeMentor](https://www.codementor.io/u/dashboard)
    * [HackerEarth](https://www.hackerearth.com/)
    * [TopCoders](https://www.topcoder.com/)
    * [CodeWars](https://www.codewars.com/)
