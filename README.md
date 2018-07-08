@@ -230,7 +230,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [Google Chrome Extension - Weava-Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
    * [Google Chrome Extension - StackOverFlow-Code-Beauti](https://chrome.google.com/webstore/detail/stackoverflow-code-beauti/pljeafjjkkbacckkollfejkciddacmeb)
    * [JetBrains - EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
-   * [JetBrains - EduTools](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+   * [JetBrains - Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 
 ## Code Pratiği Yapılabilecek Siteler
    * [HackerRank](https://www.hackerrank.com/)
