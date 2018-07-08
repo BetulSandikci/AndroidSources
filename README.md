@@ -15,45 +15,49 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 ## Git ve GitHub Kaynakları
 
 * **Demirbaş Referanslar**
-    * [Güncellenecek](http://googlecom)
+    * [GitHub - Teachers Advisors](https://education.github.com/teachers/advisors)
     
 * **Kütüphaneler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **RSS Kayıtları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Videolar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Slack Kanalları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **PodCast'ler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
 
 * **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
 
 * **Bloglar**
-    * [Güncellenecek](http://googlecom)
+    * [GitIgnore.IO](https://medium.com/@haydar_ai/how-to-create-gitignore-file-the-easy-ways-c07de1cf555)
+    
+* **Eğitim**
+    * [Güncellenecek](http://Google.Com)
     
 * **Kişiler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Etkinlikler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
+
 
 ## Kotlin Kaynakları
 
 * **Demirbaş Referanslar**
-    * [Güncellenecek](http://googlecom)
+    * [Kotlin Cheat Sheet](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
     
 * **Kütüphaneler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **RSS Kayıtları**
     * [Kotlin Weekly](http://kotlinweekly.net/)
@@ -65,23 +69,27 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [KotlinLang](https://kotlinlang.slack.com/)
     
 * **PodCast'ler**
-    * [Güncellenecek](http://googlecom)
+    * [Talking Kotlin](http://talkingkotlin.com/)
     
 * **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
 
 * **Bloglar**
-    * [Güncellenecek](http://googlecom)
+    * [Medium - Kotlin Academy](https://blog.kotlin-academy.com/)
+    
+* **Eğitim**
+    * [Stepik](https://stepik.org/users/50285378/courses)
     
 * **Kişiler**
     * [Google Developers Experts - Kotlin](https://developers.google.com/experts/all/technology/kotlin)
     
 * **Etkinlikler**
-    * [Güncellenecek](http://googlecom)
-    
+    * [Güncellenecek](http://Google.Com)
+  
+  
 ## Android Kaynakları
 
 * **Demirbaş Referanslar**
@@ -92,6 +100,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     
 * **RSS Kayıtları**
     * [Android Weekly](https://androidweekly.net/)
+    * [Mindorks](https://mindorks.com/newsletter)
     
 * **Videolar**
     * [AndroidDay'17](https://www.youtube.com/playlist?list=PLSV3VvYZSJP1vo8PZYti9LHoWFUz5K7_4)
@@ -103,58 +112,68 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [AndroidChat](https://android-united.slack.com/)
     
 * **PodCast'ler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Bloglar**
+    * [Medium - Lyla Fujiwara)](https://medium.com/@lylalyla)
     * [Retrofit, Glide, Picasso, Gson (Network işlemleri)](https://futurestud.io/tutorials)
+    * [Academy Realm.IO)](https://academy.realm.io/section/android/)
+    
+* **Eğitim**
+    * [Güncellenecek](http://Google.Com)
     
 * **Kişiler**
     * [Google Developers Experts - Android](https://developers.google.com/experts/all/technology/android)
     
 * **Etkinlikler**
     * [Android & iOS 2018 Etkinlik Takvimi](https://bugfender.com/conferences/)
-    
+  
+  
 ## Flutter & Cross-Platform Kaynakları
 
 * **Demirbaş Referanslar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Kütüphaneler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **RSS Kayıtları**
     * [Flutter Weekly](https://flutterweekly.net/)
     
 * **Videolar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Slack Kanalları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **PodCast'ler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Bloglar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
+    
+* **Eğitim**
+    * [Güncellenecek](http://Google.Com)
     
 * **Kişiler**
     * [Google Developers Experts - Flutter](https://developers.google.com/experts/all/technology/flutter)
     * [Google Developers Experts - Dart](https://developers.google.com/experts/all/technology/dart)
     
 * **Etkinlikler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
+
 
 ## Genel Programlama Kaynakları
 
@@ -162,7 +181,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [EveryProgrammerShouldKnow](https://github.com/mr-mig/every-programmer-should-know)
     
 * **Kütüphaneler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **RSS Kayıtları**
     * [Mobil Dünya](http://mobildunya.ahmet.ws/)
@@ -170,41 +189,48 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Academy.Realm.IO](https://academy.realm.io/section/android/)
     
 * **Videolar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Slack Kanalları**
     * [İstanbul Coders](https://istanbulcoders.slack.com/)
     * [SoftwareCrafters](https://softwarecrafters.slack.com/)
     
 * **PodCast'ler**
-    * [Güncellenecek](http://googlecom)
+    * [Winds.GetStream.IO](https://winds.getstream.io/)
+    * [Medium](https://medium.com/s/playback)
     
 * **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
 
 * **Mutlaka Okunması Gereken Kaynaklar**
     * [Stackoverflow İncelenerek Oluşturulmuş En Çok Tavsiye Edilen Kitap Listesi](http://www.dev-books.com/book/discover?tag=android)
     * [Okumanız Gereken En Önemli Kitaplar Listesi](https://github.com/chhantyal/influential-cs-books)
     
 * **Bloglar**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
+    
+* **Eğitim**
+    * [Güncellenecek](http://Google.Com)
     
 * **Kişiler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 * **Etkinlikler**
-    * [Güncellenecek](http://googlecom)
+    * [Güncellenecek](http://Google.Com)
     
 ## Design
    * [Panda Weekly](https://usepanda.com/newsletter.html)
-    
-## Plugin & Extension
+   * [SketchAppSources](https://www.sketchappsources.com/)
+   
+## Plugins & Extensions
    * [Google Chrome Extension - Panda](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
    * [Google Chrome Extension - OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
    * [Google Chrome Extension - Json Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
    * [Google Chrome Extension - Stack Notifier - StackOverFlow](https://chrome.google.com/webstore/detail/stacknotifier-stackoverfl/dkicpibgdednbmlclkbcehckpfficabn)
    * [Google Chrome Extension - Weava-Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
    * [Google Chrome Extension - StackOverFlow-Code-Beauti](https://chrome.google.com/webstore/detail/stackoverflow-code-beauti/pljeafjjkkbacckkollfejkciddacmeb)
+   * [JetBrains - EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
+   * [JetBrains - EduTools](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 
 ## Code Pratiği Yapılabilecek Siteler
    * [HackerRank](https://www.hackerrank.com/)
@@ -220,12 +246,15 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 ## Ücretsiz API'lar
    * [AppSight.IO](https://www.appsight.io/?os=android)
    * [Mashape](https://market.mashape.com/)
+   
+## Freelance & Mentor
+   * [CodeMentor.IO](https://www.codementor.io/)
     
 ## Yardımcı Araçlar
-   * [Güncellenecek](http://googlecom)
+   * [Güncellenecek](http://Google.Com)
 
 ## Filmler ve Diziler
-   * [Güncellenecek](http://googlecom)
+   * [Güncellenecek](http://Google.Com)
 
 ## Kendimizi geliştirmemiz için lütfen Geri Bildirim (Feedback) vermekten çekinmeyiniz..
 [GokhanOzturk@AndroidEduIO](mailto:GokhanOzturk@AndroidEdu.IO)
