@@ -15,24 +15,10 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 ## Git ve GitHub Kaynakları
 
 * **Demirbaş Referanslar**
+    * [GitHub - Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
     * [GitHub - Teachers Advisors](https://education.github.com/teachers/advisors)
     
-* **Kütüphaneler**
-    * [Güncellenecek](http://Google.Com)
-    
-* **RSS Kayıtları**
-    * [Güncellenecek](http://Google.Com)
-    
 * **Videolar**
-    * [Güncellenecek](http://Google.Com)
-    
-* **Slack Kanalları**
-    * [Güncellenecek](http://Google.Com)
-    
-* **PodCast'ler**
-    * [Güncellenecek](http://Google.Com)
-
-* **Facebook Sayfa ve Grupları**
     * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
@@ -40,6 +26,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 
 * **Bloglar**
     * [GitIgnore.IO](https://medium.com/@haydar_ai/how-to-create-gitignore-file-the-easy-ways-c07de1cf555)
+    * [Git Introduction](https://flaviocopes.com/git/)
     
 * **Eğitim**
     * [Güncellenecek](http://Google.Com)
@@ -47,13 +34,13 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **Kişiler**
     * [Güncellenecek](http://Google.Com)
     
-* **Etkinlikler**
-    * [Güncellenecek](http://Google.Com)
-
 
 ## Kotlin Kaynakları
 
 * **Demirbaş Referanslar**
+    * [Kotlin.Link](https://kotlin.link/)
+    * [Kotlin/Resources](https://developer.android.com/kotlin/resources) 1
+    
     * [Kotlin Cheat Sheet](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
     
 * **Kütüphaneler**
@@ -71,14 +58,15 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **PodCast'ler**
     * [Talking Kotlin](http://talkingkotlin.com/)
     
-* **Facebook Sayfa ve Grupları**
-    * [Güncellenecek](http://Google.Com)
+* **Facebook Sayfa ve Grupları | Twitter Hashtags**
+    * [Twitter - 31DaysOfKotlin](https://twitter.com/hashtag/31DaysOfKotlin)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
     * [Güncellenecek](http://Google.Com)
 
 * **Bloglar**
     * [Medium - Kotlin Academy](https://blog.kotlin-academy.com/)
+    * [Learning the Kotlin Language](http://www.gamefromscratch.com/post/2015/12/02/Cheat-sheet-for-Learning-the-Kotlin-Language.aspx)
     
 * **Eğitim**
     * [Stepik](https://stepik.org/users/50285378/courses)
@@ -94,9 +82,13 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 
 * **Demirbaş Referanslar**
     * [Developer.Android](https://developer.android.com/index.html)
+    * [Gradle](https://gradle.org/guides/)
+    * [Gradle Functions](http://google.github.io/android-gradle-dsl/current/com.android.build.gradle.BaseExtension.html#com.android.build.gradle.BaseExtension:productFlavors)
+    * [CodeLabs.Developers.Google](https://codelabs.developers.google.com/)
     
 * **Kütüphaneler**
-    * [Lib4dev](http://www.lib4dev.com/topics/kotlin?p=1&s=)
+    * [Awesome-Android](https://snowdream.github.io/awesome-android/)
+    * [Lottie Files](https://www.lottiefiles.com/)
     
 * **RSS Kayıtları**
     * [Android Weekly](https://androidweekly.net/)
@@ -114,7 +106,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **PodCast'ler**
     * [Güncellenecek](http://Google.Com)
     
-* **Facebook Sayfa ve Grupları**
+* **Facebook Sayfa ve Grupları | Twitter Hashtags**
     * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
@@ -155,7 +147,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **PodCast'ler**
     * [Güncellenecek](http://Google.Com)
     
-* **Facebook Sayfa ve Grupları**
+* **Facebook Sayfa ve Grupları | Twitter Hashtags**
     * [Güncellenecek](http://Google.Com)
     
 * **Mutlaka Okunması Gereken Kaynaklar**
@@ -181,7 +173,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [EveryProgrammerShouldKnow](https://github.com/mr-mig/every-programmer-should-know)
     
 * **Kütüphaneler**
-    * [Güncellenecek](http://Google.Com)
+    * [Lib4dev](http://www.lib4dev.com/topics/kotlin?p=1&s=)
     
 * **RSS Kayıtları**
     * [Mobil Dünya](http://mobildunya.ahmet.ws/)
@@ -205,6 +197,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **Mutlaka Okunması Gereken Kaynaklar**
     * [Stackoverflow İncelenerek Oluşturulmuş En Çok Tavsiye Edilen Kitap Listesi](http://www.dev-books.com/book/discover?tag=android)
     * [Okumanız Gereken En Önemli Kitaplar Listesi](https://github.com/chhantyal/influential-cs-books)
+    * [Java - Must Reads](https://marcus-biel.com/must-reads/)
     
 * **Bloglar**
     * [Güncellenecek](http://Google.Com)
@@ -213,7 +206,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://Google.Com)
     
 * **Kişiler**
-    * [Güncellenecek](http://Google.Com)
+    * [Ozcan Acar](http://ozcanacar.com/)
     
 * **Etkinlikler**
     * [Güncellenecek](http://Google.Com)
@@ -221,6 +214,8 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 ## Design
    * [Panda Weekly](https://usepanda.com/newsletter.html)
    * [SketchAppSources](https://www.sketchappsources.com/)
+   * [Medium - MuzLi](https://medium.muz.li/@usemuzli)
+   * [Medium - PremiumUiKits](https://medium.muz.li/@premiumuikits)
    
 ## Plugins & Extensions
    * [Google Chrome Extension - Panda](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
@@ -229,11 +224,14 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [Google Chrome Extension - Stack Notifier - StackOverFlow](https://chrome.google.com/webstore/detail/stacknotifier-stackoverfl/dkicpibgdednbmlclkbcehckpfficabn)
    * [Google Chrome Extension - Weava-Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
    * [Google Chrome Extension - StackOverFlow-Code-Beauti](https://chrome.google.com/webstore/detail/stackoverflow-code-beauti/pljeafjjkkbacckkollfejkciddacmeb)
+   * [Google Chrome Extension - Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc)
    * [JetBrains - EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
    * [JetBrains - Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 
 ## Code Pratiği Yapılabilecek Siteler
    * [HackerRank](https://www.hackerrank.com/)
+   * [Code.ORG](https://code.org/)
+   * [CodeAcademy](https://www.codecademy.com/)
    * [CodinGame](https://www.codingame.com/start)
    * [CodeMentor](https://www.codementor.io/u/dashboard)
    * [HackerEarth](https://www.hackerearth.com/)
@@ -251,7 +249,9 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [CodeMentor.IO](https://www.codementor.io/)
     
 ## Yardımcı Araçlar
-   * [Güncellenecek](http://Google.Com)
+   * [Pixplicity](https://pixplicity.com/dp-px-converter)
+   * [Carbon.now.sh](https://carbon.now.sh/)
+   * [Json-Generator](https://www.json-generator.com/)
 
 ## Filmler ve Diziler
    * [Güncellenecek](http://Google.Com)
