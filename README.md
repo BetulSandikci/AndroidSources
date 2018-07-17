@@ -2,6 +2,7 @@
 
 * **Hazırlayan**      : Gökhan ÖZTÜRK, [GokhanOzturk@AndroidEdu.IO](mailto:GokhanOzturk@AndroidEdu.IO)
 * **Katkı Sunanlar**  : Ahmet Rıfat Can Gür, [CanGur@AndroidEdu.IO](mailto:CanGur@AndroidEdu.IO)
+                        Furkan Aşkın, [SeeingIsKnow@Gmail.Com](mailto:SeeingIsKnow@Gmail.Com)
 
 * Yardıma ihtiyacın mı var?
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kodluyoruz-ORG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -41,7 +42,6 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **Demirbaş Referanslar**
     * [Kotlin.Link](https://kotlin.link/)
     * [Kotlin/Resources](https://developer.android.com/kotlin/resources) 1
-    
     * [Kotlin Cheat Sheet](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
     
 * **Kütüphaneler**
@@ -86,6 +86,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Gradle](https://gradle.org/guides/)
     * [Gradle Functions](http://google.github.io/android-gradle-dsl/current/com.android.build.gradle.BaseExtension.html#com.android.build.gradle.BaseExtension:productFlavors)
     * [CodeLabs.Developers.Google](https://codelabs.developers.google.com/)
+    * [Google Samples](https://github.com/googlesamples/)
     
 * **Kütüphaneler**
     * [Awesome-Android](https://snowdream.github.io/awesome-android/)
@@ -103,6 +104,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [GDG-Istanbul](https://gdgistanbul.slack.com/)
     * [AndroidChat](https://androidchat.slack.com/)
     * [AndroidChat](https://android-united.slack.com/)
+    * [Android Istanbul](https://androidistanbul.slack.com/)
     
 * **PodCast'ler**
     * [Güncellenecek](http://Google.Com)
@@ -117,9 +119,10 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Medium - Lyla Fujiwara)](https://medium.com/@lylalyla)
     * [Retrofit, Glide, Picasso, Gson (Network işlemleri)](https://futurestud.io/tutorials)
     * [Academy Realm.IO)](https://academy.realm.io/section/android/)
+    * [Reddit-Android](https://www.reddit.com/r/Android/)
     
 * **Eğitim**
-    * [Güncellenecek](http://Google.Com)
+    * [Android™ Notes for Professionals Book](https://books.goalkicker.com/AndroidBook/)
     
 * **Kişiler**
     * [Google Developers Experts - Android](https://developers.google.com/experts/all/technology/android)
@@ -191,6 +194,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **PodCast'ler**
     * [Winds.GetStream.IO](https://winds.getstream.io/)
     * [Medium](https://medium.com/s/playback)
+    * [Yalın Kod](https://castbox.fm/channel/Yalın-Kod-Podcast-id1099475?country=us)
     
 * **Facebook Sayfa ve Grupları**
     * [Güncellenecek](http://Google.Com)
@@ -217,6 +221,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [SketchAppSources](https://www.sketchappsources.com/)
    * [Medium - MuzLi](https://medium.muz.li/@usemuzli)
    * [Medium - PremiumUiKits](https://medium.muz.li/@premiumuikits)
+   * [Material Design Icons](https://materialdesignicons.com)
    
 ## Plugins & Extensions
    * [Google Chrome Extension - Panda](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
@@ -245,6 +250,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 ## Ücretsiz API'lar
    * [AppSight.IO](https://www.appsight.io/?os=android)
    * [Mashape](https://market.mashape.com/)
+   * [Open Weather Map](https://openweathermap.org/api)
    
 ## Freelance & Mentor
    * [CodeMentor.IO](https://www.codementor.io/)
@@ -253,6 +259,8 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [Pixplicity](https://pixplicity.com/dp-px-converter)
    * [Carbon.now.sh](https://carbon.now.sh/)
    * [Json-Generator](https://www.json-generator.com/)
+   * [Jsonschema2pojo](http://www.jsonschema2pojo.org)
+   * [Repl.it](https://www.repl.it/)
 
 ## Filmler ve Diziler
    * [Güncellenecek](http://Google.Com)
