@@ -2,7 +2,8 @@
 
 * **Hazırlayan**      : Gökhan ÖZTÜRK, [GokhanOzturk@AndroidEdu.IO](mailto:GokhanOzturk@AndroidEdu.IO)
 * **Katkı Sunanlar**  : Ahmet Rıfat Can Gür, [CanGur@AndroidEdu.IO](mailto:CanGur@AndroidEdu.IO)
-                        Furkan Aşkın, [SeeingIsKnow@Gmail.Com](mailto:SeeingIsKnow@Gmail.Com)
+                        Furkan Aşkın, [Askinn.Furkan@Gmail.Com](mailto:Askinn.Furkan@Gmail.Com)
+                        Halil Özel, [HalilOzel1903@Gmail.Com](mailto:HalilOzel1903@Gmail.Com)
 
 * Yardıma ihtiyacın mı var?
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kodluyoruz-ORG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -29,6 +30,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
 * **Bloglar**
     * [GitIgnore.IO](https://medium.com/@haydar_ai/how-to-create-gitignore-file-the-easy-ways-c07de1cf555)
     * [Git Introduction](https://flaviocopes.com/git/)
+    * [Yeni Başlayanlar için Git 101](https://medium.com/turkce/yeni-ba%C5%9Flayanlar-i%C3%A7in-git-101-ff7ea5b3eff9)
     
 * **Eğitim**
     * [Güncellenecek](http://Google.Com)
@@ -71,6 +73,9 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     
 * **Eğitim**
     * [Stepik](https://stepik.org/users/50285378/courses)
+    * [Mobilhanem - Kotlin Eğitimleri](https://www.mobilhanem.com/kotlin-egitimleri/)
+    * [JavatPoint - Kotlin Tutorial](https://www.javatpoint.com/kotlin-tutorial)
+    * [Programiz - Kotlin Tutorial](https://www.programiz.com/kotlin-programming#tutorial)
     
 * **Kişiler**
     * [Google Developers Experts - Kotlin](https://developers.google.com/experts/all/technology/kotlin)
