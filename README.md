@@ -227,6 +227,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
    * [Medium - MuzLi](https://medium.muz.li/@usemuzli)
    * [Medium - PremiumUiKits](https://medium.muz.li/@premiumuikits)
    * [Material Design Icons](https://materialdesignicons.com)
+   * [Framer](https://framer.com/)
    
 ## Plugins & Extensions
    * [Google Chrome Extension - Panda](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
